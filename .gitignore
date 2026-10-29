@@ -1,0 +1,17 @@
+# Nunca versionar credenciais reais ou dados sensíveis
+*.real
+*.secret
+.env
+credenciais*.txt
+saidas-reais/
+
+# Wordlists grandes do sistema (não pertencem ao repo)
+rockyou*.txt
+
+# Lixo de SO / editores
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/

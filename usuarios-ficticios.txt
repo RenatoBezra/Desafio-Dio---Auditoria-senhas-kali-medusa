@@ -1,0 +1,8 @@
+admin
+user
+test
+service
+guest
+operador
+suporte
+msfadmin
